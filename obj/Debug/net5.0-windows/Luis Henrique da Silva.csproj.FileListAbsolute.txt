@@ -1,0 +1,18 @@
+C:\Users\aluno\Desktop\Luis Henrique da Silva\bin\Debug\net5.0-windows\Luis Henrique da Silva.exe
+C:\Users\aluno\Desktop\Luis Henrique da Silva\bin\Debug\net5.0-windows\Luis Henrique da Silva.deps.json
+C:\Users\aluno\Desktop\Luis Henrique da Silva\bin\Debug\net5.0-windows\Luis Henrique da Silva.runtimeconfig.json
+C:\Users\aluno\Desktop\Luis Henrique da Silva\bin\Debug\net5.0-windows\Luis Henrique da Silva.runtimeconfig.dev.json
+C:\Users\aluno\Desktop\Luis Henrique da Silva\bin\Debug\net5.0-windows\Luis Henrique da Silva.dll
+C:\Users\aluno\Desktop\Luis Henrique da Silva\bin\Debug\net5.0-windows\ref\Luis Henrique da Silva.dll
+C:\Users\aluno\Desktop\Luis Henrique da Silva\bin\Debug\net5.0-windows\Luis Henrique da Silva.pdb
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis_Henrique_da_Silva.Form1.resources
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.dll
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\ref\Luis Henrique da Silva.dll
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.pdb
+C:\Users\aluno\Desktop\Luis Henrique da Silva\obj\Debug\net5.0-windows\Luis Henrique da Silva.genruntimeconfig.cache
